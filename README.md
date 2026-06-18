@@ -21,5 +21,5 @@ Você pode ver esse projeto rodando AO VIVO clicando no link abaixo:
 👉 [COLE O SEU LINK DO GITHUB PAGES AQUI]
 
 ---
-**Feito com ❤️ por [SEU NOME]**
+**Feito com ❤️ por Janilucia**
 *"Programar é a arte de criar conexões, tanto no código quanto na vida!"*
